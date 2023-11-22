@@ -1,0 +1,2 @@
+# SerializableDictionaryForUnity
+Serialization of Dictionary
