@@ -1,3 +1,9 @@
+/*
+MIT License
+
+Copyright (c) 2023 Haluk Özgen
+*/
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
